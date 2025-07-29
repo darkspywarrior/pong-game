@@ -7,6 +7,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
+    "import asyncio\n",
     "import pygame\n",
     "import random\n",
     "\n",
